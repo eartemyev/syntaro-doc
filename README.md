@@ -1,0 +1,1 @@
+# syntaro-doc
